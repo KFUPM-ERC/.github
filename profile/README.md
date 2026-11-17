@@ -1,6 +1,8 @@
 <div align="center">
 
-# KFUPM ERC
+<img src="https://raw.githubusercontent.com/KFUPM-ERC/.github/main/profile/assets/madar-erc-kfupm.jpg" alt="Madar ERC KFUPM team logo" width="240">
+
+# Madar ERC KFUPM
 
 **Building a rover for the European Rover Challenge.**
 
@@ -14,7 +16,7 @@ King Fahd University of Petroleum & Minerals · Saudi Arabia
 
 ## About us
 
-We are the KFUPM rover team, working toward participation in the **European Rover Challenge (ERC)**. We bring together mechanical design, electronics, software, and science to develop a rover and the systems needed to operate it.
+We are Madar ERC KFUPM, the university’s rover team. We are working toward participation in the **European Rover Challenge (ERC)**. We bring together mechanical design, electronics, software, and science to develop a rover and the systems needed to operate it.
 
 Our goal is to turn engineering ideas into a reliable, integrated robot through design, prototyping, and field testing.
 
