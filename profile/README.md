@@ -7,7 +7,7 @@
 
 # Madar ERC KFUPM
 
-**Building a rover for the European Rover Challenge.**
+**Madar, always in motion.**
 
 King Fahd University of Petroleum & Minerals · Saudi Arabia
 
