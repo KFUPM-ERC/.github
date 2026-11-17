@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KFUPM-ERC/.github/main/profile/assets/madar-erc-kfupm.jpg" alt="Madar ERC KFUPM team logo" width="240">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KFUPM-ERC/.github/main/profile/assets/madar-m-white.png">
+  <img src="https://raw.githubusercontent.com/KFUPM-ERC/.github/main/profile/assets/madar-m-ink.png" alt="Madar ERC KFUPM team logo" width="240">
+</picture>
 
 # Madar ERC KFUPM
 
